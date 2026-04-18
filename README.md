@@ -5,7 +5,7 @@ Una aplicación de clima moderna construida con Jetpack Compose que muestra info
 ## 📸 Capturas de pantalla
 
 <div align="center">
-  <img src="screenshots/main_screen.png" width="300" alt="Main Screen">
+  <img src="https://i.ibb.co/0pnzfCk5/Whats-App-Image-2026-04-18-at-13-13-55.jpg" width="300" alt="Main Screen">
 </div>
 
 ## ✨ Características
